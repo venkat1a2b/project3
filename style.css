@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin-top: 0px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.spid{
+    float: left;
+}
+.vol{
+    float: right;
+}
+
+.gif1{
+ width: 200px;
+ border-radius: 100px;
+}
+.gif2{
+    width: 200px;
+    border-radius: 100px;
+   }
+
+#speed{
+    
+    font-size: 15px;
+   
+}
+#volume{
+    font-size: 15px;
+   
+}
+.ply{
+    border-radius: 50px;
+    margin-top: 10px;
+}
+
+canvas{
+    border-color: chartreuse;
+}
